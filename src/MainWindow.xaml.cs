@@ -30,11 +30,16 @@ namespace WebScrapingApp
 
         private void BtnScrapper_Click(object sender, RoutedEventArgs e)
         {
-            scrapper.ScrapeData(TbPage.Text);
+            scrapper.ScrapInfo(TbPage.Text);
         }
         private void ItemExport_Click(object sender, RoutedEventArgs e)
         {
             scrapper.Export();
+        }
+
+        private void BtnCancel_Click(object sender, RoutedEventArgs e)
+        {
+            
         }
     }
 }
