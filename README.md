@@ -1,5 +1,5 @@
 # WebScraperApp
-A WPF web scraper built for scraping data from https://mmohuts.com/news/?sort=reviews 
+A WPF web scraper built for scraping data from https://mmohuts.com/news/?sort=reviews and https://www.vanguardngr.com/
 
 ## Description
 The application is a web scrapper used to scrap data from a webpage. It is built using WPF, a desktop development framework and C#. For more about Web Scraping check https://en.wikipedia.org/wiki/Web_scraping
